@@ -1,0 +1,31 @@
+body{ background-color: bisque;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+   
+   }
+   div h2{background-color: rgba(250, 157, 157, 0.924);
+       color: rgb(82, 3, 3);
+       border: 2x solid  black;
+       border-radius: 2px;
+       padding:  0 40px 0 40px;
+       margin: 28px 400px;
+   }
+   input{ 
+       background-color: rgba(255, 172, 172, 0.924);
+       color: rgb(6, 6, 6);
+       border-radius: 10rem;
+   height: 800%;
+   width: 25%;
+   }
+   input:hover{
+       background-color: aliceblue;
+   }
+   button:hover{
+       background-color: aliceblue;
+       color: black;
+   }
+   button{background-color: rgba(253, 136, 136, 0.936);
+       color: antiquewhite;
+       border-radius: 2rem;
+   }
